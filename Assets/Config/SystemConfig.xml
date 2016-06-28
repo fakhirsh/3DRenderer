@@ -1,0 +1,14 @@
+<SystemConfig>
+	<AppDescription     sceneName = "Raytracer"
+                        version = "0.1.0"
+                        outputPath = "Output/"
+                        />
+
+	<Graphics	imageWidth      = "960"
+                imageHeight     = "640"
+                msAA            = "1" />
+					
+	<Localization	language="English" />
+		
+</SystemConfig>
+
